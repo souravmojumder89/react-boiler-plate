@@ -9,14 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buckyroberts/React-Webpack.git"
+    "url": "git+https://github.com/souravmojumder89/react-boiler-plate.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/buckyroberts/React-Webpack/issues"
-  },
-  "homepage": "https://github.com/buckyroberts/React-Webpack#readme",
+ 
+  "homepage": "https://github.com/souravmojumder89/react-boiler-plate#readme",
   "dependencies": {
     "babel-core": "^6.10.4",
     "babel-loader": "^6.2.4",
